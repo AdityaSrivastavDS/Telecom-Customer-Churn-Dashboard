@@ -89,9 +89,13 @@ Major findings from the dashboard:
 # View
 
 ![Day Calls](view/day.png)
+
 ![Evening Calls](view/evening.png)
+
 ![Initial Calls](view/initial.png)
+
 ![Night Calls](view/night.png)
+
 ![Insights](view/summary.png)
 
 ---
